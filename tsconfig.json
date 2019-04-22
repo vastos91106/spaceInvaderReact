@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "es6",
+    "experimentalDecorators": true,
+    "lib": [
+      "es2015",
+      "es2017",
+      "dom"
+    ],
+    "useTranspileModule": true,
+    "removeComments": true,
+    "allowSyntheticDefaultImports": false,
+    "jsx": "react",
+    "allowJs": true,
+    "baseUrl": "./",
+    "paths": {
+      "components/*": [
+        "src/components/*"
+      ],
+      "page/*": [
+        "src/pages/*"
+      ]
+    }
+  }
+}
