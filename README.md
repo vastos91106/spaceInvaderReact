@@ -1,7 +1,6 @@
-# space invader on react
+# Heellloo its space invader on react
  8 bit space invader on react :j
- <br/>
-# Heellloo 
+
  <br/>
 Its my vision space invader in browser :D
  <br/>
